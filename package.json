@@ -1,0 +1,22 @@
+{
+  "name": "guruji_astro2",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "kafkajs": "^2.2.4",
+    "prom-client": "^15.1.2",
+    "prometheus": "^0.1.7",
+    "winston": "^3.13.0"
+  }
+}
